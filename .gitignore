@@ -1,0 +1,7 @@
+target/
+*.iml
+.idea/
+*.db
+*.db-wal
+*.db-shm
+logs/
